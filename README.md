@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuriidiiego
-- 👀 I’m interested in Java, SQL, Spring boot, Hibernate, JPA (Java Persistence), MAVEN, GIT.
+- 👀 I’m interested in Java, SQL, Spring Boot, Hibernate/JPA, Swagger, MAVEN, GIT.
 - 🌱 I’m currently learning Análise e desenvolvimento de sistemas.
 - 💞️ I’m looking to collaborate on Java, SQL.
 - 📫 How to reach me www.linkedin.com/in/yuriidiiego or yuriidiiego@gmail.com.
