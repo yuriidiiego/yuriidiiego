@@ -2,6 +2,8 @@
 
 ### Welcome to my Github profile.
 
+![programming.](https://user-images.githubusercontent.com/83776617/173363091-1a7b84eb-864c-4345-97bd-a8ec5a2b3b39.gif)
+
 - 🎓 I’m a student backend developer.
 - 🌱 I’m currently learning Systems Analysis and Development.
 - 📱 I’m a fan of the [Java](<https://en.wikipedia.org/wiki/Java_(programming_language)>) programming language.
@@ -21,7 +23,7 @@ height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-### Contatos:
+### Contacts:
 
 <div>
 <a href="https://www.youtube.com/channel/UCpcOGerAAJeW-sBhyEQ3WZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
