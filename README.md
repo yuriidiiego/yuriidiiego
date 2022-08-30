@@ -1,4 +1,4 @@
-## 👋 Hello, my name is **Yuri Nascimento**
+## Hello, my name is **Yuri Nascimento!** :brazil:
 
 ### Welcome to my Github profile
 
