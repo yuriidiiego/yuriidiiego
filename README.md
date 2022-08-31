@@ -1,6 +1,4 @@
-## Hello, my name is **Yuri Nascimento!** :brazil:
-
-### Welcome to my Github profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'am+Yuri+Nascimento,+Back-End+Developer.)](https://git.io/typing-svg)
 
 ![programming.](https://user-images.githubusercontent.com/83776617/173363091-1a7b84eb-864c-4345-97bd-a8ec5a2b3b39.gif)
 
