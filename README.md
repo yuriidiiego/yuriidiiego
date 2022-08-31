@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'am+Yuri+Nascimento,+Back-End+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&width=1000&lines=Hello,+Welcome!+;I'am+Yuri+Nascimento,+Back-End+Developer.)](https://git.io/typing-svg)
 
 ![programming.](https://user-images.githubusercontent.com/83776617/173363091-1a7b84eb-864c-4345-97bd-a8ec5a2b3b39.gif)
 
 - 🎓 I’m a student back-end developer at [Vertigo Tecnologia](https://www.vertigo.com.br/)
 
 - 📚 I’m currently learning **Java** and **Spring Boot**
-  
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuriidiiego/)
 
 - ⚡ Fun fact: I love to play video games and watch anime and series
@@ -30,6 +30,6 @@
   <img src="https://img.shields.io/badge/-Swagger-000?&logo=Swagger" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Json-000?&logo=Json" alt="Json" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriidiiego&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriidiiego&layout=compact&theme=dracula)
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriidiiego&show_icons=true&theme=dark)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriidiiego&show_icons=true&theme=dracula)
