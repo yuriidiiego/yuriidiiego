@@ -30,6 +30,6 @@
   <img src="https://img.shields.io/badge/-Swagger-000?&logo=Swagger" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Json-000?&logo=Json" alt="Json" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriidiiego&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriidiiego&layout=compact&theme=nord)
 
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriidiiego&show_icons=true&theme=dracula)
+![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriidiiego&show_icons=true&theme=nord)
