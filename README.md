@@ -29,5 +29,10 @@
   <img src="https://img.shields.io/badge/-Kong-000?&logo=Kong" alt="Kong" />
   <img src="https://img.shields.io/badge/-Swagger-000?&logo=Swagger" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Json-000?&logo=Json" alt="Json" />
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=default)
+  <img src="https://img.shields.io/badge/-Confluence-000?&logo=Confluence" alt="Confluence" />
+  <img src="https://img.shields.io/badge/-Jira-000?&logo=Jira" alt="Jira" />  
+  <img src="https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia" alt="Insomnia" />
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=nord_dark)
+
