@@ -29,8 +29,5 @@
   <img src="https://img.shields.io/badge/-Kong-000?&logo=Kong" alt="Kong" />
   <img src="https://img.shields.io/badge/-Swagger-000?&logo=Swagger" alt="Swagger" />
   <img src="https://img.shields.io/badge/-Json-000?&logo=Json" alt="Json" />
-
-
-![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriidiiego&show_icons=true&theme=nord)
   
-![yuriidiiego](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriidiiego&hide=html&layout=compact&theme=nord)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=default)
