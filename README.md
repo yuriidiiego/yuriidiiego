@@ -2,7 +2,7 @@
 
 ![programming.](https://user-images.githubusercontent.com/83776617/173363091-1a7b84eb-864c-4345-97bd-a8ec5a2b3b39.gif)
 
-- 🎓 I’m a student back-end developer at [Vertigo Tecnologia](https://www.vertigo.com.br/)
+- 🎓 I’m a student back-end developer.
 
 - 📚 I’m currently learning **Java** and **Spring Boot**
 
