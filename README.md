@@ -4,7 +4,7 @@
 
 - 🎓 I’m a student back-end developer.
 
-- 📚 I’m currently learning **Java** and **Spring Boot**
+- 📚 I’m currently learning **Jenkins** and **Kubernetes**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuriidiiego/)
 
