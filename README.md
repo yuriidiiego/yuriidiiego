@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus" alt="Quarkus" />
   <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitLab-000?&logo=GitLab" alt="GitLab" />
   <img src="https://img.shields.io/badge/-GitHub-000?&logo=github" alt="GitHub" />
   <img src="https://img.shields.io/badge/-IntelliJ-000?&logo=IntelliJ-IDEA" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code&logoColor=007ACC" alt="Visual Studio Code" />
@@ -35,4 +37,3 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=nord_dark)
-
