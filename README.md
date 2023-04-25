@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" alt="Java" />
   <img src="https://img.shields.io/badge/-Spring-000?&logo=Spring" alt="Spring" />
   <img src="https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus" alt="Quarkus" />
+      <img src="https://img.shields.io/badge/-Maven-000?&logo=Maven" alt="Maven" />
+      <img src="https://img.shields.io/badge/-Gradle-000?&logo=Gradle" alt="Gradle" />
   <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL" alt="MySQL" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" alt="MongoDB" />
@@ -36,4 +38,4 @@
   <img src="https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia" alt="Insomnia" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=nord_dark)
+![card.](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuriidiiego&theme=nord_dark)
