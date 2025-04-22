@@ -135,7 +135,7 @@
 
 - Suporte técnico, manutenção e desenvolvimento de sistemas web  
 - Participação em projetos de sites institucionais e sistemas de controle interno  
-- Stack: HTML, CSS, JS, MySQL, PHP, Git
+- Stack: HTML, CSS, JS, MySQL, C#, Java, Git
 
 ---
 
