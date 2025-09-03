@@ -98,6 +98,8 @@
 
 ### 📂 Tratamento Tributário
 
+**FADESP/SEFA (2023) — Analista Desenvolvedor de Sistemas**  
+
 - **Documentação técnica** de APIs REST utilizando **Swagger**  
 - **Criação de testes unitários** com **JUnit 4 e 5**  
 - **Desenvolvimento full stack**:
